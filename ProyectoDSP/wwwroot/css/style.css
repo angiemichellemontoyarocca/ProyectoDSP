@@ -1,0 +1,17 @@
+﻿body, h1 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: #f1f9f4;
+
+}
+
+.h1 {
+    text-align: left;
+    background-color: #483D8B;
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 30%;
+    transform: translatex(-50%);
+}
